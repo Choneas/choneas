@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=choneas&&style=flat-square" align="center" />
+</div>
 
-<!--
-**Choneas/choneas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there.
+![](https://hit.yhype.me/github/profile?account_id=57039359)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Working on
+Delicious projects I like
+### ✨ Learning about
+`React`, `Next.js`, `Algorithm Research (C++)`
+### ❤️ Love to
+- Thinking 🤔
+- Making something new. 🪄
+### 🌟 Fun Fact
+It is simply a name I chose based on my pronunciation of English when I was young.
